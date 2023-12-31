@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Sandooq Backend Server
 
 Welcome to the backend server for our Sandooq! This server is responsible for handling data processing, managing databases, and serving as the backend API.
@@ -40,7 +39,3 @@ Make sure you have the following installed:
    ```bash
    npm start
    ```bash
-=======
-# lending-circle-app-backend
-Lending Circle App [Backend]
->>>>>>> main
