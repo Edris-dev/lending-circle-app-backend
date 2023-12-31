@@ -17,7 +17,6 @@ Make sure you have the following installed:
 1. Clone the repository:
 
    ```bash
-   git clone <repository_url>
    cd backend
 
 2. Install dependecies:
